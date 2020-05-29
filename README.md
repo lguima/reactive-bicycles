@@ -1,4 +1,4 @@
-# Reactive bicycles
+# Reactive bicycles :atom: :bicyclist:
 Where bicycles react.
 
 ## Rules
